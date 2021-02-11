@@ -13,6 +13,8 @@ container: "container-fluid"
 links: [[href: "https://www.eclipse.org/org/workinggroups/osgi-charter.php", text: "Charter"]]
 ---
 
+Example PR
+
 {{< grid/section-container >}}
   {{< grid/div class="col-sm-15 margin-top-30" isMarkdown="false" >}}
     {{< newsroom/news
